@@ -1,7 +1,1 @@
 # Clothes-Shop
-
-
-
-asdopadopcökasc
-
-öasdc
