@@ -1,11 +1,14 @@
-Tüm gereksinimlerinizi çıkardıktan sonra beraber tartışıyoruz ve son gereksinimlerin isimlerini ve kısa açıklamalarını buraya numaralı bir şekilde yazıyorsunuz. Daha sonra aşağıya herkes kendi gereksinimiyle ilgili sayfayı oluşturmalı ve kendi sayfasında kendine ait gereksinimleri numaralı bir şekilde listeleyerek her bir gereksinimin açıklamalarını yazmalı. Toplamda grup üyesi sayısı kadar sayfa oluşturulmalı. Her grup üyesine eşit sayıda gereksinim atanmalı.
-
 # Gereksinimler
-1. Üye Olma (Ali Atabak)
-2. Kayıt Olma (Ali Atabak
-3. .....
+1. Kullanıcı Yönetimi (kullanıcı kayıt , giriş çıkış)
+2. Anasayfa (Arama, Kadın, Erkek, Bebek, Aksesuar)
+3. Ürün Yükleme
+4. Ürün Silme
+5. Ürün Fiyat Ekleme
+6. Fiyat Bilgisi
+7. Favoriler
+8. Sepet
 
 # Gereksinim Dağılımları
-1. [Ali Atabak'ın Gereksinimleri](Ali-Atabak-Gereksinimler.md)
-2. [Ayşe Topu Tut'nn Gereksinimleri](Ali-Atabak-Gereksinimler.md)
-3. ........
+1. [İsa Nazlı'nın Gereksinimleri](İsa-Nazlı-Gereksinimler.md)
+2. [Sude Ceylan'ın Gereksinimleri](Sude-Ceylan-Gereksinimler.md)
+3. [Ali Işık'ın Gereksinimleri](Ali-Işık-Gereksinimler.md)
