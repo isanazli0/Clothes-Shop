@@ -1,13 +1,13 @@
-5. KATEGORİYE GÖRE ÜRÜN ARAMA : Kullanıcıların ürün adını, özelliklerinii veya kategorisini yazarak ürünü bulma işlemidir.
+1. KATEGORİYE GÖRE ÜRÜN ARAMA : Kullanıcıların ürün adını, özelliklerinii veya kategorisini yazarak ürünü bulma işlemidir.
 
-10. ÜRÜN YÜKLEME : Satışa çıkarılan ürünlerin bilgilerini girip siteye konulması. 
+2. ÜRÜN YÜKLEME : Satışa çıkarılan ürünlerin bilgilerini girip siteye konulması. 
 
-11. ÜRÜNE FOTOĞRAF EKLEME : Satışa çıkarılan ürünlerin görsellerinin siteye yüklenmesi.
+3. ÜRÜNE FOTOĞRAF EKLEME : Satışa çıkarılan ürünlerin görsellerinin siteye yüklenmesi.
 
-12. ÜRÜN BEDENİNE GÖRE LİSTELE : Kullanıcının kendine uygun bedeni tercih etmesi için beden seçeneklerinin sunulması. 
+4. ÜRÜN BEDENİNE GÖRE LİSTELE : Kullanıcının kendine uygun bedeni tercih etmesi için beden seçeneklerinin sunulması. 
 
-13. ÜRÜN RENGİNE GÖRE FİLTRELEME : Kullanıcların tercih edecekleri ürünün renk seçenekleridir. 
+5. ÜRÜN RENGİNE GÖRE FİLTRELEME : Kullanıcların tercih edecekleri ürünün renk seçenekleridir. 
 
-14. ÜRÜN SİLME: Satışı veya stoğu biten ürünlerin silinmesi.  
+6. ÜRÜN SİLME: Satışı veya stoğu biten ürünlerin silinmesi.  
 
-18. ÖDEME YAPMA : Kullanıcıların seçtikleri ürünleri satın almak için geçilen ödeme adımıdır. 
+7. ÖDEME YAPMA : Kullanıcıların seçtikleri ürünleri satın almak için geçilen ödeme adımıdır. 
