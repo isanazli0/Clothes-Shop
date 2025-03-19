@@ -1,15 +1,13 @@
-1. Kullanıcı Kayıt :  Kullanıcıların alışveriş sitesine ister yeni hesap oluşturarak isterse önceden oluşturmuş olduğu bilgilerle giriş yapmasını sağlar  
+5. KATEGORİYE GÖRE ÜRÜN ARAMA : Kullanıcıların ürün adını, özelliklerinii veya kategorisini yazarak ürünü bulma işlemidir.
 
-2. GİRİŞ YAPMA : Kullanıcıların onlardan istenilen bilgilere göre hizmetlere ulaşmak için istenilen kimlik doğrulama sürecidir 
+10. ÜRÜN YÜKLEME : Satışa çıkarılan ürünlerin bilgilerini girip siteye konulması. 
 
-3. ÇIKIŞ YAPMA :  Kullanıcıların giriş bilgileriyle girdiği sitemizden güvenli bir şekilde çıkış yapma işlemidir  
+11. ÜRÜNE FOTOĞRAF EKLEME : Satışa çıkarılan ürünlerin görsellerinin siteye yüklenmesi.
 
-4. ANASAYFA : Sitemizde girişte gözükecek ve kullanıcıları kendi istekleri doğrultusunda istedikleri yere yönlendirilmek için bulunan bölmelerdir 
+12. ÜRÜN BEDENİNE GÖRE LİSTELE : Kullanıcının kendine uygun bedeni tercih etmesi için beden seçeneklerinin sunulması. 
 
-5. KADIN : Kadınlara yönelik ürünlerin bulunduğu bölümdür. Kullanıcıların buraya tıklayarak istedikleri ürünlerin sayfasına gideceği yerdir. 
+13. ÜRÜN RENGİNE GÖRE FİLTRELEME : Kullanıcların tercih edecekleri ürünün renk seçenekleridir. 
 
-6. ERKEK : Erkeklere yönelik ürünlerin bulunduğu bölümdür. Kullanıcıların buraya tıklayarak istedikleri ürünlerin sayfasına gideceği yerdir. 
+14. ÜRÜN SİLME: Satışı veya stoğu biten ürünlerin silinmesi.  
 
-7. BEBEK : Bebeklere yönelik ürünlerin bulunduğu bölümdür. Kullanıcıların buraya tıklayarak istedikleri ürünlerin sayfasına gideceği yerdir. 
-
-8. AKSESUAR : Kullanıcıların sitede bulunan aksesuarları görmek için kullanabileceği bölümdür. 
+18. ÖDEME YAPMA : Kullanıcıların seçtikleri ürünleri satın almak için geçilen ödeme adımıdır. 
