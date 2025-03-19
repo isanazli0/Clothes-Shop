@@ -17,7 +17,7 @@
 
 1. KULLANICI KAYIT :  Kullanıcıların alışveriş sitesine ister yeni hesap oluşturarak isterse önceden oluşturmuş olduğu bilgilerle giriş yapmasını sağlar
 
-2.HESAP SİLME : Oluşturduğunuz kullanıcı hesabınızı kalıcı olarak kaldırma işlemidir. 
+2. HESAP SİLME : Oluşturduğunuz kullanıcı hesabınızı kalıcı olarak kaldırma işlemidir. 
 
 3. GİRİŞ YAPMA : Kullanıcıların onlardan istenilen bilgilere göre hizmetlere ulaşmak için istenilen kimlik doğrulama sürecidir 
 
