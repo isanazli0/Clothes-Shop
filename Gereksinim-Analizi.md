@@ -15,7 +15,7 @@
 
 # TÜM GEREKSİNİM DAĞILIMLARI 
 
-1. Kullanıcı Kayıt :  Kullanıcıların alışveriş sitesine ister yeni hesap oluşturarak isterse önceden oluşturmuş olduğu bilgilerle giriş yapmasını sağlar
+1. KULLANICI KAYIT :  Kullanıcıların alışveriş sitesine ister yeni hesap oluşturarak isterse önceden oluşturmuş olduğu bilgilerle giriş yapmasını sağlar
 
 2.HESAP SİLME : Oluşturduğunuz kullanıcı hesabınızı kalıcı olarak kaldırma işlemidir. 
 
