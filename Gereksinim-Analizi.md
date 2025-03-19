@@ -11,7 +11,7 @@
 # Gereksinim Dağılımları
 1. [İsa Nazlı'nın Gereksinimleri](İsa-Nazlı-Gereksinimler.md)
 2. [Sude-Ceylan-Gereksinimler.md](https://github.com/sude2853/Clothes-Shop/blob/main/Sude-Ceylan-Gereksinimler.md)
-3. [Ali Işık'ın Gereksinimleri](Ali-Işık-Gereksinimler.md)
+3. [Ali Işık'ın Gereksinimleri](https://github.com/Ask-com/Clothes-Shop/blob/main/Ali-I%C5%9F%C4%B1k-Gereksinimler.md)
 
 # TÜM GEREKSİNİM DAĞILIMLARI 
 
