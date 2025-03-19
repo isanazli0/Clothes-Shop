@@ -23,7 +23,7 @@
 
 4. ÇIKIŞ YAPMA :  Kullanıcıların giriş bilgileriyle girdiği sitemizden güvenli bir şekilde çıkış yapma işlemidir 
 
-5. KATEGORİYE GÖRE ÜRÜN LİSTELEME : Sitemizde girişte gözükecek ve kullanıcıları kendi istekleri doğrultusunda istedikleri yere yönlendirilmek için bulunan bölmelerdir 
+5. KATEGORİYE GÖRE ÜRÜN ARAMA : Kullanıcıların ürün adını, özelliklerinii veya kategorisini yazarak ürünü bulma işlemidir.
 
 6. KADIN ÜRÜNLERİ LİSTELEME : Kadınlara yönelik ürünlerin bulunduğu bölümdür. Kullanıcıların buraya tıklayarak istedikleri ürünlerin sayfasına gideceği yerdir. 
 
