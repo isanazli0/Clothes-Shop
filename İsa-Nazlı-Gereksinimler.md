@@ -4,9 +4,9 @@
 
 3. ÜRÜNE FOTOĞRAF EKLEME : Satışa çıkarılan ürünlerin görsellerinin siteye yüklenmesi.
 
-4. ÜRÜN BEDENİNE GÖRE LİSTELE : Kullanıcının kendine uygun bedeni tercih etmesi için beden seçeneklerinin sunulması. 
+4. ÜRÜN BEDENİNE GÖRE FİTRELEME : Kullanıcının kendine uygun bedeni tercih etmesi için beden seçeneklerinin sunulması. 
 
-5. ÜRÜN RENGİNE GÖRE FİLTRELEME : Kullanıcların tercih edecekleri ürünün renk seçenekleridir. 
+5. ÜRÜN RENGİNE GÖRE FİLTRELEME : Kullanıcların tercih edecekleri ürünün rengini seçerek sonucun listelenmesi. 
 
 6. ÜRÜN SİLME: Satışı veya stoğu biten ürünlerin silinmesi.  
 
