@@ -37,7 +37,7 @@
 
 11. ÜRÜNE FOTOĞRAF EKLEME : Satışa çıkarılan ürünlerin görsellerinin siteye yüklenmesi.
 
-12. ÜRÜN BEDENİNE GÖRE LİSTELE : Kullanıcının kendine uygun bedeni tercih etmesi için beden seçeneklerinin sunulması. 
+12. ÜRÜN BEDENİNE GÖRE FİTRELEME : Kullanıcının kendine uygun bedeni tercih etmesi için beden seçeneklerinin sunulması.  
 
 13. ÜRÜN RENGİNE GÖRE FİLTRELEME : Kullanıcların tercih edecekleri ürünün renk seçenekleridir. 
 
