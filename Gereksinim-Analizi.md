@@ -39,7 +39,7 @@
 
 12. ÜRÜN BEDENİNE GÖRE FİTRELEME : Kullanıcının kendine uygun bedeni tercih etmesi için beden seçeneklerinin sunulması.  
 
-13. ÜRÜN RENGİNE GÖRE FİLTRELEME : Kullanıcların tercih edecekleri ürünün renk seçenekleridir. 
+13. ÜRÜN RENGİNE GÖRE FİLTRELEME : Kullanıcların tercih edecekleri ürünün rengini seçerek sonucun listelenmesi. 
 
 14. ÜRÜN SİLME: Satışı veya stoğu biten ürünlerin silinmesi.  
 
