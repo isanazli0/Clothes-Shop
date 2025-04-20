@@ -29,4 +29,4 @@ Sen de stilini tamamlamak ve modanın bir adım önünde olmak için Clothes Sho
 4. [Sude Ceylan'ın Durum Senaryoları](https://github.com/sude2853/Clothes-Shop/blob/2c77edb300c11ffa5493b2f6298dab18b43f7f24/Durum%20Senaryosu.pdf)
 
 
-
+#SİTE ADRESİ İÇİN = https://ask-com.github.io/Clothes-Shop/kadin.html
